@@ -20,8 +20,8 @@ jobs:
           git clone https://github.com/ikxin/kms-tools.git
           cd kms-tools
           npm install pnpm --location=global
-	  npm install -g bun
-   	  pnpm install && pnpm build
+          npm install -g bun
+          pnpm install && pnpm build
           cd dist && zip -q -r kms-tools.zip * && mv kms-tools.zip ../ && cd ..
 
       - name: Read Version
