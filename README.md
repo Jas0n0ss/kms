@@ -6,7 +6,7 @@
 
 ---
 
-![image-20231109221823529](../hexo/source/images/image-20231109221823529.png)
+![image-20231109221823529](./assets/image-20231109221823529.png)
 
 > Source Code
 
