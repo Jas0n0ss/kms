@@ -1,5 +1,4 @@
-## kms server
-> **Activation** 
+> **KMS Server: `kms.msft.vip`**, **Activate Command** 
 ```
 # activation command
 slmgr /skms kms.msft.vip && slmgr /ato
