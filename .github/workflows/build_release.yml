@@ -37,11 +37,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         permissions:
-  				id-token: write
-  				contents: read
-  				issues: write
-  				pull-requests: write
-				with:
+          id-token: write
+          contents: read
+          issues: write
+          pull-requests: write
+        with:
           tag_name: v${{ steps.version.outputs.value }}
           release_name: v${{ steps.version.outputs.value }}
           draft: false
@@ -56,8 +56,8 @@ jobs:
           asset_path: ./kms-tools.zip
           asset_name: kms-tools-v${{ steps.version.outputs.value }}.zip
           asset_content_type: application/zip
-				permissions:
- 40       id-token: write
- 41       contents: read
- 42       issues: write
- 43       pull-requests: w
+        permissions:
+          id-token: write
+          contents: read
+          issues: write
+          pull-requests: write
