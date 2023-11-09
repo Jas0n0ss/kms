@@ -8,7 +8,7 @@
 
 - https://github.com/Wind4/vlmcsd
 - https://github.com/ikxin/kms-tools
-- - https://github.com/dylanbai8/kmspro
+- https://github.com/dylanbai8/kmspro
 ---
 
 ![image-20231109221823529](./assets/image-20231109221823529.png)
