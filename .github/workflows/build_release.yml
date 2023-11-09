@@ -34,13 +34,9 @@ jobs:
       - name: Create Release
         id: create_release
         uses: actions/create-release@latest
+        if: github.event_name == 'push'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        permissions:
-          id-token: write
-          contents: read
-          issues: write
-          pull-requests: write
         with:
           tag_name: v${{ steps.version.outputs.value }}
           release_name: v${{ steps.version.outputs.value }}
@@ -49,6 +45,7 @@ jobs:
 
       - name: Upload Release
         uses: actions/upload-release-asset@latest
+        if: github.event_name == 'push'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -56,8 +53,3 @@ jobs:
           asset_path: ./kms-tools.zip
           asset_name: kms-tools-v${{ steps.version.outputs.value }}.zip
           asset_content_type: application/zip
-        permissions:
-          id-token: write
-          contents: read
-          issues: write
-          pull-requests: write
