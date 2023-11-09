@@ -2,14 +2,19 @@ window.Config = {
   links: [
     {
       id: 0,
-      name: 'Blog',
-      url: 'https://www.ikxin.com'
+      name: 'MSDL',
+      url: 'https://oss.msft.vip/msdl/'
+    },
+    {
+      id: 1,
+      name: 'BLOG',
+      url: 'https://oss.msft.vip'
     },
     {
       id: 1,
       name: 'Github',
-      url: 'https://github.com/ikxin/kms-tools'
+      #url: 'https://github.com/ikxin/kms-tools'
+      url: 'https://github.com/Jas0n0ss/kmsrv'
     }
   ],
-  beian: '粤ICP备2021024472号'
 }
