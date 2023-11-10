@@ -15,6 +15,21 @@ slmgr /skms kms.msft.vip && slmgr /ato
 
 ![https://github.com/ikxin/kms-tools](./assets/image-20231109221823529.png)
 
+> iso download
+
+- http://share.msft.vip
+- https://pesktop.com/en/windows/
+
+> Recommend OS
+
+- [windows10/11 download](https://oss.msft.vip/msdl)
+- [Office 2021/2016/2019](https://pesktop.com/en/windows/microsoft-office-202120192016-pro-plus)
+- [Atlas OS](https://atlasos.net/)(only support win10)
+- [Revision OS](https://revi.cc/revios)(support win10 and win11)
+  - [Revision OS win10](https://pesktop.com/en/systems/windows-10-revios)
+  - [Revision OS win11](https://pesktop.com/en/systems/windows-11-revios-22h2)
+
+
 > Source Code
 
 https://github.com/ikxin/kms-tools
