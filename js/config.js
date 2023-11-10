@@ -11,17 +11,17 @@ window.Config = {
       url: 'https://oss.msft.vip/msdl'
     },
     {
-      id: 3,
+      id: 2,
       name: 'KMS',
       url: 'https://oss.msft.vip/2023/11/09/kms-server-for-windows-office/'
     },
      {
-      id: 4,
+      id: 3,
       name: 'office',
       url: 'https://pesktop.com/en/windows/microsoft-office-202120192016-pro-plus'
     },
      {
-      id: 5,
+      id: 4,
       name: 'AtlasOS',
       url: 'https://atlasos.net'
     },
@@ -31,7 +31,7 @@ window.Config = {
       url: 'https://pesktop.com/en/systems/windows-10-revios'
     },
     {
-      id: 5,
+      id: 6,
       name: 'AtlasOS-11',
       url: 'https://pesktop.com/en/systems/windows-11-revios-22h2'
     },
