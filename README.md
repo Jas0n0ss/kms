@@ -14,7 +14,7 @@ slmgr /skms kms.msft.vip && slmgr /ato
   - https://github.com/ikxin/kms-tools
 
 > [!NOTE]
-Recommend OS
+> Recommend OS
 
 - [windows10/11 download](https://oss.msft.vip/msdl)
 - [Office 2021/2016/2019](https://pesktop.com/en/windows/microsoft-office-202120192016-pro-plus)
