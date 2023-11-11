@@ -3,20 +3,19 @@ window.Config = {
     {
       id: 0,
       name: 'ISO',
-      url: 'https://oss.msft.vip/msdl'
     },
     {
-      id: 0.1,
+      id: 0,
       name: 'Win11|Win10',
       url: 'https://oss.msft.vip/msdl'
     },
     {
-      id: 0.2,
+      id: 0,
       name: 'Pesktop',
       url: 'https://pesktop.com/en/systems/page'
     },
     {
-      id: 0.3,
+      id: 0,
       name: 'Share',
       url: 'http/share.msft.vip/azure/iso/windows/'
     },
