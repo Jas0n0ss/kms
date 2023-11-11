@@ -8,27 +8,17 @@ window.Config = {
     {
       id: 1,
       name: 'GitHub',
-      url: 'https://oss.msft.vip/msdl'
+      url: 'https://github.com/Jas0n0ss/kms'
     },
     {
       id: 2,
-      name: 'office',
-      url: 'https://pesktop.com/en/windows/microsoft-office-202120192016-pro-plus'
+      name: 'Pesktop',
+      url: 'https://pesktop.com/en/systems/page'
     },
     {
       id: 3,
-      name: 'AtlasOS',
-      url: 'https://atlasos.net'
-    },
-    {
-      id: 4,
-      name: 'AtlasOS-10',
-      url: 'https://pesktop.com/en/systems/windows-10-revios'
-    },
-    {
-      id: 5,
-      name: 'AtlasOS-11',
-      url: 'https://pesktop.com/en/systems/windows-11-revios-22h2'
+      name: 'Share',
+      url: 'http/share.msft.vip/azure/iso/windows/'
     },
   ],
 }
