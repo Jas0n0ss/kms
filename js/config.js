@@ -13,7 +13,7 @@ window.Config = {
     {
       id: 2,
       name: 'Share',
-      url: 'http/share.msft.vip/azure/iso/windows/'
+      url: 'http://share.msft.vip/azure/iso/windows/'
     },
     {
       id: 3,
