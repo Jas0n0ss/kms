@@ -4,10 +4,10 @@
 slmgr /skms kms.msft.vip && slmgr /ato
 ```
 - Windows ISO download:
-  - https://oss.msft.vip/msdl
+  - https://git.msft.vip/msdl
   - https://pesktop.com/en/systems/page
 - Windows & Office activation:
-  - https://oss.msft.vip/kms
+  - https://git.msft.vip/kms
 - KMS Server On Github
   - https://github.com/Wind4/vlmcsd
   - https://github.com/dylanbai8/kmspro
@@ -16,7 +16,7 @@ slmgr /skms kms.msft.vip && slmgr /ato
 > [!NOTE]
 > Recommend OS
 
-- [Windows10/11 download](https://oss.msft.vip/msdl)
+- [Windows10/11 download](https://git.msft.vip/msdl)
 - [Office 2021/2016/2019](https://pesktop.com/en/windows/microsoft-office-202120192016-pro-plus)
 - [Atlas OS](https://atlasos.net/) (only support win10)
 - [Revision OS](https://revi.cc/revios) (support win10 and win11)
